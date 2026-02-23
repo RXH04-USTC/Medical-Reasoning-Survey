@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 renxiaohan
+Copyright (c) 2026 Xiaohan Ren, Chenxiao Fan, Wenyin Ma, Chongming Gao, Xiaoyan Zhao, Fuli Feng
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,23 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+DISCLAIMER FOR MEDICAL USE:
+
+This software is provided for research and educational purposes only. It is not
+intended for clinical decision-making or medical diagnosis without proper
+validation and regulatory approval. The authors and contributors make no
+warranties about the accuracy, completeness, or suitability of the software for
+any particular purpose.
+
+Users of this software are responsible for:
+1. Obtaining appropriate institutional review board (IRB) approval
+2. Ensuring compliance with applicable healthcare regulations and laws
+3. Validating the software in their specific use case
+4. Consulting qualified healthcare professionals for medical advice
+
+The authors shall not be liable for any direct, indirect, incidental, special,
+exemplary, or consequential damages arising from the use of this software in
+clinical or medical settings.

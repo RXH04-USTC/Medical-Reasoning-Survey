@@ -1,0 +1,225 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# PEP 582
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Project-specific
+# Data files (too large or sensitive)
+data/raw/
+data/processed/
+data/mimic/
+*.csv
+*.tsv
+*.parquet
+
+# Model checkpoints
+models/checkpoints/
+models/pretrained/
+*.pt
+*.pth
+*.bin
+
+# Results and logs
+results/
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# API keys and credentials
+.env.local
+secrets.json
+credentials.json
+config.local.yaml
+
+# Large files
+*.zip
+*.tar.gz
+*.tar.bz2
+*.7z
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# Package files
+*.whl
+*.egg-info/
+
+# Compiled files
+*.pyc
+*.pyo
+
+# Editor backups
+*.bak
+*.backup
+*~
+
+# OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# MIMIC-IV data (sensitive patient information)
+data/mimic_iv/
+data/raw/mimic/
+*.mimic
+mimic_*.csv
+
+# MR-Bench data (derived from MIMIC-IV, not included)
+data/mr_bench/
+mr_bench_*.json
+mr_bench_*.csv
+
+# Evaluation outputs
+eval_results/
+evaluation_logs/
+*.eval.json
+
+# Cache files
+.cache/
+*.cache
